@@ -1,6 +1,6 @@
 #!/bin/bash
 # leafpad-pkp.inst 2024-08-09
-# Copies 'org.leafpad.policy' to '/usr/share/polkit-1/actions/org.leafpad.policy'.
+#  Copies 'org.leafpad.policy' to '/usr/share/polkit-1/actions/org.leafpad.policy'.
 
 	printf '%s\f\n' "  Installing 'org.leafpad.policy' file to /usr/share/polkit-1/actions/"
 
